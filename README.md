@@ -24,3 +24,5 @@ is turned into
 
 12 98.139.129.177 po-11.bas1-7-prd.bf1.yahoo.com 74.935 ms 98.139.129.161 po-10.bas1-7-prd.bf1.yahoo.com 73.633 ms 98.139.129.179 po-11.bas2-7-prd.bf1.yahoo.com 74.715 ms
 
+
+If an ip address does not have a PTR record, then there is nothing to add.
